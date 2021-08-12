@@ -13,7 +13,9 @@ BASE_DIR = Path(__file__).ancestor(3)
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '+b^#yfw%ktwepl*hat&wjax(+$bkwsklum_vn=*=g8^rha_hnm'
+
+
+#Private key
 
 
 # Application definition

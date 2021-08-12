@@ -111,4 +111,5 @@ media/
 settings/
 settings.py
 
+/gestion_turnos/settings/local.py
 gestion_turnos/settings/local.py
